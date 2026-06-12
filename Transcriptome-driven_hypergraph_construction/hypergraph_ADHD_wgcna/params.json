@@ -1,0 +1,13 @@
+{
+  "CSV_PATH": "ABHB_hyperedge/data_edge/ADHD_ROI_GENE.csv",
+  "TOPK_ROI": 25,
+  "BEST_POWER": 19,
+  "CORRELATION_TYPE": "bicor",
+  "ACTUAL_ROI_COUNT": 116,
+  "WGCNA_PARAMS": {
+    "MIN_MODULE_SIZE": 1,
+    "MERGE_CUT_HEIGHT": 0.25,
+    "DEEP_SPLIT": 2,
+    "NETWORK_TYPE": "signed"
+  }
+}

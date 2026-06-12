@@ -1,0 +1,13 @@
+{
+  "CSV_PATH": "ABHB_hyperedge/data_edge/AAL_AD_116_1216.csv",
+  "TOPK_ROI": 30,
+  "BEST_POWER": 2,
+  "CORRELATION_TYPE": "bicor",
+  "ACTUAL_ROI_COUNT": 116,
+  "WGCNA_PARAMS": {
+    "MIN_MODULE_SIZE": 10,
+    "MERGE_CUT_HEIGHT": 0.15,
+    "DEEP_SPLIT": 2,
+    "NETWORK_TYPE": "signed"
+  }
+}

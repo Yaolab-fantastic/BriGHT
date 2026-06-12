@@ -1,0 +1,13 @@
+{
+  "CSV_PATH": "/home/huilong/ABHB_hyperedge/data_edge/AHBA_MDD_116_2463.csv",
+  "TOPK_ROI": 40,
+  "BEST_POWER": 29,
+  "CORRELATION_TYPE": "bicor",
+  "ACTUAL_ROI_COUNT": 116,
+  "WGCNA_PARAMS": {
+    "MIN_MODULE_SIZE": 10,
+    "MERGE_CUT_HEIGHT": 0.25,
+    "DEEP_SPLIT": 2,
+    "NETWORK_TYPE": "signed"
+  }
+}
