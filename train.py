@@ -18,7 +18,7 @@ matplotlib.use('Agg')
 os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-DATA_ROOT = '../Example_data/NCvsAD'
+DATA_ROOT = '../Data/NCvsAD'
 AV45_PT = os.path.join(DATA_ROOT, 'AV45.pt')
 FDG_PT = os.path.join(DATA_ROOT, 'FDG.pt')
 VBM_PT = os.path.join(DATA_ROOT, 'VBM.pt')

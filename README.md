@@ -18,7 +18,7 @@ The implementation of BriGHT is publicly available to facilitate reproducibility
 
 The repository includes:
 
-- Preprocessed sample datasets (`Example_data/`)
+- Preprocessed sample datasets (`Data/`)
 - Pre-trained models and checkpoints
 - Scripts for transcriptomic hypergraph construction and multimodal learning, including:
   - `1.sample_weight_calculating.py`
